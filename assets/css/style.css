@@ -9,8 +9,11 @@ body {
 }
 
 .hero img {
-    width: 150px;
-    border-radius: 50%;
+    width: 200px;
+    border-radius: 60%;
+}
+.card img {
+    width: 200x350px;
 }
 
 .section-title {
